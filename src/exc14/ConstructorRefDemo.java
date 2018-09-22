@@ -5,7 +5,6 @@ public class ConstructorRefDemo {
         MyFunc myClassCons = MyClass::new;
 
         MyClass mc = myClassCons.func(100);
-
         System.out.println("Значение val в объекте mc равно "+mc.getVal());
     }
 }

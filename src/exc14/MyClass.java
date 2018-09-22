@@ -11,8 +11,6 @@ public class MyClass {
         val = 0;
     }
 
-    public int getVal() {
-        return val;
-    }
+    public int getVal() { return val; }
 }
 
