@@ -11,6 +11,7 @@ public class MethodRefDemo2 {
         MyStringOps strOps  = new MyStringOps();
         outStr = stringOps(strOps::strReverse,inStr);
 
+
         System.out.println(inStr);
         System.out.println(outStr);
 

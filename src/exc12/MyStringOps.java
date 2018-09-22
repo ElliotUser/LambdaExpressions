@@ -1,7 +1,7 @@
 package exc12;
 
 public class MyStringOps {
-     String strReverse(String str){
+    String strReverse(String str){
         String result = "";
         int i;
 
